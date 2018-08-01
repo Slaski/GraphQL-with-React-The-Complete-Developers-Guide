@@ -10,7 +10,7 @@ class SongDetail extends Component {
     const { song, loading } = this.props.data;
 
     if (loading) {
-      return <div />;
+      return <div>auaguaua</div>;
     }
 
     return (
